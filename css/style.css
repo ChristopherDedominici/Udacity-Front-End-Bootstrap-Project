@@ -1,0 +1,65 @@
+.top-margin {
+	margin-top: 20px;
+}
+
+.bottom-margin {
+	margin-bottom: 20px;
+}
+
+/*	----------------header----------------------------  	*/
+.logo-img {
+	width: 90px;
+	height: 90px;
+}
+
+/*	----------------body----------------------------  	*/
+
+.wars-portfolio {
+	height: 300px;
+}
+
+
+.sith-creed {
+	color: red;
+}
+
+@media screen and (max-width: 767px) {
+	.text-centered {
+		text-align: center;
+	} 
+}
+
+.img-height {
+	width: 100%;
+}
+
+@media screen and (min-width: 991px) {
+	.img-height {
+		height: 180px;
+		width: 100%;
+	} 
+}
+
+
+
+/*	----------------footer----------------------------  	*/
+
+.footer-title {
+	color: #fff;
+}
+
+.button-warning {
+	color: white;
+             border-radius: 4px;
+             text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+             background: rgb(202, 60, 60);
+}
+
+.footerClass {
+	position:relative;
+             bottom:0;
+             width:100%;
+             height: auto;
+	background-color: black;
+	text-align: center;
+}
