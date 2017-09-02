@@ -16,7 +16,7 @@ This is one of the projects avaible on the [Udacity Front-End Web Developer Nano
 1. Create a single page website using [Bootstrap](http://getbootstrap.com/) following the guide lines provided from a mockup.
 The content of the website was at the student choice.
 
-2. (Not requested) Use of [grunt](https://gruntjs.com/) to automatize the process of detecting changes in the code, combined files together and compress them.
+2. (Not requested) Use of [grunt](https://gruntjs.com/) to automatize the process of detecting changes in the code, combine files together and compress them.
  
 <br>
 <br>
