@@ -23,3 +23,4 @@ The content of the website was at the student choice.
 
 If you would like to see a running website I developed using Bootsrapt please visit the [Remoria website](http://remoria.io).
 
+<img src="remoria-website.png" style="width:100%; height: auto">
